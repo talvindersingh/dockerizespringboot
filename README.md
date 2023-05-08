@@ -1,2 +1,4 @@
 # dockerizespringboot
-C:\terraform\project\javawebapp\gs-spring-boot\complete\target\spring-boot-complete-0.0.1-SNAPSHOT.jar
+1. Containerize a sample Spring boot application.
+2. Push the image to repository.
+3. Host it on K8s.
